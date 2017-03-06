@@ -1,0 +1,78 @@
+*From* - Email - ID,Rank,Frequency
+kay.mann@enron.com,1,16735
+vince.kaminski@enron.com,2,14368
+jeff.dasovich@enron.com,3,11411
+pete.davis@enron.com,4,9149
+chris.germany@enron.com,5,8801
+sara.shackleton@enron.com,6,8777
+enron.announcements@enron.com,7,8587
+tana.jones@enron.com,8,8490
+steven.kean@enron.com,9,6759
+kate.symes@enron.com,10,5438
+*To* - Email - ID,Rank,Frequency
+pete.davis@enron.com,1,9155
+tana.jones@enron.com,2,5677
+sara.shackleton@enron.com,3,4974
+vkaminski@aol.com,4,4870
+jeff.dasovich@enron.com,5,4350
+kate.symes@enron.com,6,3517
+all.worldwide@enron.com,7,3324
+mark.taylor@enron.com,8,3295
+kay.mann@enron.com,9,3085
+gerald.nemec@enron.com,10,3074
+*Cc* - Email - ID,Rank,Frequency
+"albert.meyers@enron.com, bill.williams@enron.com, craig.dean@enron.com, 
+	geir.solberg@enron.com, john.anderson@enron.com, 
+	mark.guzman@enron.com, michael.mier@enron.com, pete.davis@enron.com, 
+	ryan.slinger@enron.com",1,3106
+vince.kaminski@enron.com,2,3072
+"bert.meyers@enron.com, bill.williams.iii@enron.com, craig.dean@enron.com, 
+	dporter3@enron.com, eric.linder@enron.com, geir.solberg@enron.com, 
+	jbryson@enron.com, leaf.harasin@enron.com, 
+	monika.causholli@enron.com, mark.guzman@enron.com, 
+	pete.davis@enron.com, ryan.slinger@enron.com, 
+	steven.merris@enron.com",3,2952
+"bert.meyers@enron.com, bill.williams.iii@enron.com, craig.dean@enron.com, 
+	dporter3@enron.com, eric.linder@enron.com, geir.solberg@enron.com, 
+	jbryson@enron.com, leaf.harasin@enron.com, 
+	monika.causholli@enron.com, mark.guzman@enron.com, 
+	pete.davis@enron.com, ryan.slinger@enron.com",4,1167
+sara.shackleton@enron.com,5,885
+mark.taylor@enron.com,6,786
+steven.kean@enron.com,7,770
+tana.jones@enron.com,8,695
+gerald.nemec@enron.com,9,507
+"bert.meyers@enron.com, bill.williams.iii@enron.com, dporter3@enron.com, 
+	geir.solberg@enron.com, greg.wolfe@enron.com, 
+	holden.salisbury@enron.com, jbryson@enron.com, 
+	leaf.harasin@enron.com, monika.causholli@enron.com, 
+	mark.guzman@enron.com, pchoi2@enron.com, pete.davis@enron.com, 
+	ryan.slinger@enron.com",10,477
+* Bcc* - Email - ID,Rank,Frequency
+"albert.meyers@enron.com, bill.williams@enron.com, craig.dean@enron.com, 
+	geir.solberg@enron.com, john.anderson@enron.com, 
+	mark.guzman@enron.com, michael.mier@enron.com, pete.davis@enron.com, 
+	ryan.slinger@enron.com",1,3106
+vince.kaminski@enron.com,2,3072
+"bert.meyers@enron.com, bill.williams.iii@enron.com, craig.dean@enron.com, 
+	dporter3@enron.com, eric.linder@enron.com, geir.solberg@enron.com, 
+	jbryson@enron.com, leaf.harasin@enron.com, 
+	monika.causholli@enron.com, mark.guzman@enron.com, 
+	pete.davis@enron.com, ryan.slinger@enron.com, 
+	steven.merris@enron.com",3,2952
+"bert.meyers@enron.com, bill.williams.iii@enron.com, craig.dean@enron.com, 
+	dporter3@enron.com, eric.linder@enron.com, geir.solberg@enron.com, 
+	jbryson@enron.com, leaf.harasin@enron.com, 
+	monika.causholli@enron.com, mark.guzman@enron.com, 
+	pete.davis@enron.com, ryan.slinger@enron.com",4,1167
+sara.shackleton@enron.com,5,885
+mark.taylor@enron.com,6,786
+steven.kean@enron.com,7,770
+tana.jones@enron.com,8,695
+gerald.nemec@enron.com,9,507
+"bert.meyers@enron.com, bill.williams.iii@enron.com, dporter3@enron.com, 
+	geir.solberg@enron.com, greg.wolfe@enron.com, 
+	holden.salisbury@enron.com, jbryson@enron.com, 
+	leaf.harasin@enron.com, monika.causholli@enron.com, 
+	mark.guzman@enron.com, pchoi2@enron.com, pete.davis@enron.com, 
+	ryan.slinger@enron.com",10,477
