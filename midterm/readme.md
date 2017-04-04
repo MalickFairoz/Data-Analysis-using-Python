@@ -40,9 +40,9 @@
 - Gathering the output and stored in two different CSV file one for the year and other for the month
 - With the output data the bar and pie graphs are plotted
 
-!["Q1_A2"](ana_[1-3]/Q1_A2_Year.png)
+!["Q1_A2"](ana_[1-3]/Q1/A2/Q1_A2_Year.png)
 
-!["Q1_A2"](ana_[1-3]/Q1_A2_Month.png)
+!["Q1_A2"](ana_[1-3]/Q1/A2/Q1_A2_Month.png)
 
 ### Analysis - 3
 
@@ -58,7 +58,7 @@
 - This Stored this data to a CSV file
 - Then plotted the graph with this data with rank on x-axis and frequency on y-axis
 
-!["Q1_A3"](ana_[1-3]/Q1_A3.png)
+!["Q1_A3"](ana_[1-3]/Q1/A3/Q1_A3.png)
 
 
 # Second Question
@@ -80,7 +80,7 @@
 - The data is stored in a CSV file
 - Then graph is plotted for book rank against it evolution period in days
 
-!["Q2_A1"](ana_[1-3]/Q2_A1_BookEvolution.png)
+!["Q2_A1"](ana_[1-3]/Q2/A1/Q2_A1_BookEvolution.png)
 
 ### Analysis - 2
 
@@ -92,7 +92,7 @@
 - This data is stored in a CSV file 
 - The graph is plotted for **news material type** against its frequency under the top frequent **News desk**
 
-!["Q2_A2"](ana_[1-3]/Q2_A2_NewsDesk_MaterialType.png)
+!["Q2_A2"](ana_[1-3]/Q2/A2/Q2_A2_NewsDesk_MaterialType.png)
 
 ### Analysis - 3
 
@@ -102,4 +102,4 @@
 - Store the gathered data to a CSV file
 - Plot the graph for the type of material and their frequency in a particular time period 
 
-!["Q3_A3"](ana_[1-3]/Q2_A3_MaterialType_TimePeriod.png)
+!["Q3_A3"](ana_[1-3]/Q2/A3/Q2_A3_MaterialType_TimePeriod.png)
