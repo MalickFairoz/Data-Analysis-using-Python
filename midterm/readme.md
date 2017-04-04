@@ -29,7 +29,7 @@
 - Form the top ten of the From keyword the most frequently sent email ID of the person is identified and given rank 1 position
 - This is the output of the analysis_1 
 
-!["Q1_A1"](ana_[1-3]/Q1_A1.png)
+!["Q1_A1"](ana_[1-3]/Q1/A1/Q1_A1.png)
 
 ### Analysis - 2 
 
