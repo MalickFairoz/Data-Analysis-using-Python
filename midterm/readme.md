@@ -28,3 +28,5 @@
 - Storing all the data together in one CSV file
 - Form the top ten of the From keyword the most frequently sent email ID of the person is identified and given rank 1 position
 - This is the output of the analysis_1 
+
+!["Q1_A1"](ana_[1-3]/Q1_A1.png)
