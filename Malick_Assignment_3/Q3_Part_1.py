@@ -83,7 +83,7 @@ datafile_hostwinner_average = datafile_hostwinner_combine.groupby(['home'])['sco
 # In[13]:
 
 #Print the output with first five records
-datafile_hostwinner_average.head()
+print(datafile_hostwinner_average.head())
 
 
 # In[14]:

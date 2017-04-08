@@ -97,7 +97,7 @@ if(Final_Output.index[0]==0):
 # In[14]:
 
 # Displaying the final output
-Final_Output.head()
+print(Final_Output.head())
 
 
 # In[15]:

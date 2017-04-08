@@ -83,7 +83,7 @@ datafileParB_finaloutput = datafileParB_familygroup.sort_values('Percent_Total_B
 # In[13]:
 
 # Final Output is displayed
-datafileParB_finaloutput.head()
+print(datafileParB_finaloutput.head())
 
 
 # In[14]:

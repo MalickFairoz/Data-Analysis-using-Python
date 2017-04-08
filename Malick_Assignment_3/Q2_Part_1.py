@@ -47,7 +47,7 @@ datafile_final_output = pd.DataFrame(datafile_sorting.nlargest())
 # In[7]:
 
 # Final output in with first 5 records
-datafile_final_output.head()
+print(datafile_final_output.head())
 
 
 # In[8]:

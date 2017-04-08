@@ -133,7 +133,7 @@ del datafile_final_output['ZERO']
 # In[31]:
 
 # Final output is displayed here
-datafile_final_output
+print(datafile_final_output.head())
 
 
 # In[32]:

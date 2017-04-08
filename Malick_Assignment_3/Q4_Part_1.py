@@ -68,7 +68,7 @@ datafile_movieawards["Awards_Nominated_Total"]=datafile_movieawards["Awards_Nomi
 # In[139]:
 
 # The final ouput is displayed with first 5 records
-datafile_movieawards.head()
+print(datafile_movieawards.head())
 
 
 # In[140]:
