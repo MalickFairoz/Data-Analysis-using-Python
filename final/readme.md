@@ -1,5 +1,6 @@
 # <p align="center">WEATHER ANALYSIS USING PYTHON</p>
 <p align="center"><img src="Output/Pictures/usa3.png"></p>
+
 !["Q1_A1"](Output/Pictures/usa3.png)
 # Introduction
 - This read me file is presented for the final project of the course **Data Analysis using Python**
