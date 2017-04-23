@@ -46,9 +46,14 @@
 - Plotted a graph using Seaborn heatmap and founded which particular month has the maximum temperature difference
 - From the graph it is seen that the month **December in 2016** has the **maximum temperature difference of 86'F** in one day itself
 - The output data is stored to a CSV file
-!["Q1_A1"](Output/1_Analysis/Pictures/City_Temperature.png)
-!["Q1_A1"](Output/1_Analysis/Pictures/YearMonth_Temperature.png)
-!["Q1_A1"](Output/1_Analysis/Pictures/edited.png)
+
+<p align="center"><img src="Output/1_Analysis/Pictures/City_Temperature.png"></p>
+
+<p align="center"><img src="Output/1_Analysis/Pictures/YearMonth_Temperature.png"></p>
+
+<p align="center"><img src="Output/1_Analysis/Pictures/edited.png"></p>
+
+
 # 2_Analysis
 - **This second analysis explains in the peak snow fall city what is the maximum dew point temperature to form snow.**
 - Read all 5 city's CSV file to store them in different dataframe
@@ -67,10 +72,15 @@
 - From the graph it is visible that **November month in 2013 has the maximum temperature** which is the dew point temperature to form snow when air with condense together
 - As the result the 2_Analysis, the graph represent that the maximum dew point temperature for the snow formation on the maximum snow fall days of the city **Duluth is 37'F**.
 - *Generally the max dew point to form snow is 32'F but in the city Duluth on the highest snow fall year 2013 the maximum dew point is 37'F in the month of November.*
-!["Q1_A1"](Output/2_Analysis/Pictures/City_SnowDays.png)
-!["Q1_A1"](Output/2_Analysis/Pictures/Year_SnowDays.png)
-!["Q1_A1"](Output/2_Analysis/Pictures/Month_SnowDays.png)
-!["Q1_A1"](Output/2_Analysis/Pictures/edited.png)
+
+<p align="center"><img src="Output/2_Analysis/Pictures/City_SnowDays.png"></p>
+
+<p align="center"><img src="Output/2_Analysis/Pictures/Year_SnowDays.png"></p>
+
+<p align="center"><img src="Output/2_Analysis/Pictures/Month_SnowDays.png"></p>
+
+<p align="center"><img src="Output/2_Analysis/Pictures/edited.png"></p>
+
 # 3_Analysis
 - **This third analysis explains the pattern of continuous rainfall and its frequency on 5 cities from 2012 to 2016.**
 - Read all 5 city's CSV file to store them in different dataframe
@@ -87,8 +97,14 @@
 - From the graph it is seen that the city **Duluth** has the longest continous No_rainfall days which is **68 days**
 - For the city Duluth the frequecy of continous No_rainfall pattern is plotted in the graph 
 - These two graphs explains that the No_rain fall days will be there not more than 68 days in Duluth
-!["Q1_A1"](Output/3_Analysis/Pictures/Continuous_RainCity.png)
-!["Q1_A1"](Output/3_Analysis/Pictures/Continuous_RainFrequency.png)
-!["Q1_A1"](Output/3_Analysis/Pictures/Continuous_RainCity.png)
-!["Q1_A1"](Output/3_Analysis/Pictures/Continuous_NoRainFrequency.png)
-!["Q1_A1"](Output/3_Analysis/Pictures/edited.png)
+
+<p align="center"><img src="Output/3_Analysis/Pictures/Continuous_RainCity.png"></p>
+
+<p align="center"><img src="Output/3_Analysis/Pictures/Continuous_RainFrequency.png"></p>
+
+<p align="center"><img src="Output/3_Analysis/Pictures/Continuous_RainCity.png"></p>
+
+<p align="center"><img src="Output/3_Analysis/Pictures/Continuous_NoRainFrequency.png"></p>
+
+<p align="center"><img src="Output/3_Analysis/Pictures/edited.png"></p>
+
