@@ -8,4 +8,5 @@ There are five projects
                                 b) NewYork Times data set analysis
   3.  Assignment_1        -     NLTK data set analysis
   4.  Assignemnt_2        -     JSON files structure building
-  5.  Assignemnt_3        -     NewYork vehical collision analysis
+  5.  Assignemnt_3        -     NewYork vehicle collision analysis
+For details please refer the readme file inside the folders
